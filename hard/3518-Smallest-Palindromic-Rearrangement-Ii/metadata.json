@@ -1,0 +1,19 @@
+{
+  "id": "3518",
+  "title": "Smallest Palindromic Rearrangement II",
+  "difficulty": "Hard",
+  "language": "python3",
+  "runtime": "Accepted\n812 / 812 testcases passed",
+  "memory": "MB",
+  "tags": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Combinatorics",
+    "Counting"
+  ],
+  "submission_date": "2026-07-31T19:19:39.188Z",
+  "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2089231580/?envType=daily-question&envId=2026-07-31",
+  "time_complexity": "O(?)",
+  "space_complexity": "O(?)"
+}

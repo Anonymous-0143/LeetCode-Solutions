@@ -1,4 +1,4 @@
-# [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2089199078/?envType=daily-question&envId=2026-07-31)
+# [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-warning)
 ![Language](https://img.shields.io/badge/Language-python3-blue)

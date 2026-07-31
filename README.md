@@ -4,12 +4,12 @@ This repository contains my accepted LeetCode solutions, automatically synced vi
 
 ## Statistics
 
-- **Total Solved**: 4
+- **Total Solved**: 1
 - **Easy**: 1
-- **Medium**: 3
+- **Medium**: 0
 - **Hard**: 0
 
 ### Languages Used
 - python3: 4
 
-> *Last updated: 8/1/2026, 12:37:50 AM*
+> *Last updated: 8/1/2026, 12:39:40 AM*

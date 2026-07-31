@@ -1,0 +1,19 @@
+{
+  "id": "3016",
+  "title": "Minimum Number of Pushes to Type Word II",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "Accepted\n877 / 877 testcases passed",
+  "memory": "MB",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "submission_date": "2026-07-31T18:36:46.856Z",
+  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2089199078/?envType=daily-question&envId=2026-07-31",
+  "time_complexity": "O(?)",
+  "space_complexity": "O(?)"
+}

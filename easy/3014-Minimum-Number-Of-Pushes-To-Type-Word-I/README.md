@@ -1,9 +1,9 @@
-# [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-31)
+# [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2089227084/?envType=daily-question&envId=2026-07-31)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success)
 ![Language](https://img.shields.io/badge/Language-python3-blue)
-![Runtime](https://img.shields.io/badge/Runtime-Accepted-lightgrey)
-![Memory](https://img.shields.io/badge/Memory-Accepted%0A500%20%2F%20500%20testcases%20passed-lightgrey)
+![Runtime](https://img.shields.io/badge/Runtime-Accepted%0A500%20%2F%20500%20testcases%20passed-lightgrey)
+![Memory](https://img.shields.io/badge/Memory-MB-lightgrey)
 
 ## Problem Statement
 <p>You are given a string <code>word</code> containing <strong>distinct</strong> lowercase English letters.</p>

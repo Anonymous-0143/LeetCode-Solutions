@@ -1,4 +1,4 @@
-# [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2089221353/?envType=daily-question&envId=2026-07-31)
+# [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-31)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success)
 ![Language](https://img.shields.io/badge/Language-python3-blue)

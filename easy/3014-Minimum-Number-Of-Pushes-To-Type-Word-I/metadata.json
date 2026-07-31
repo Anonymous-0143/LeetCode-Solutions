@@ -10,8 +10,8 @@
     "String",
     "Greedy"
   ],
-  "submission_date": "2026-07-31T19:05:28.524Z",
-  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2089227084/?envType=daily-question&envId=2026-07-31",
+  "submission_date": "2026-07-31T19:06:30.211Z",
+  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-31",
   "time_complexity": "O(?)",
   "space_complexity": "O(?)"
 }

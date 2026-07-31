@@ -3,15 +3,15 @@
   "title": "Minimum Number of Pushes to Type Word I",
   "difficulty": "Easy",
   "language": "python3",
-  "runtime": "Accepted",
-  "memory": "Accepted\n500 / 500 testcases passed",
+  "runtime": "Accepted\n500 / 500 testcases passed",
+  "memory": "MB",
   "tags": [
     "Math",
     "String",
     "Greedy"
   ],
-  "submission_date": "2026-07-31T18:59:31.205Z",
-  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-31",
+  "submission_date": "2026-07-31T19:05:28.524Z",
+  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2089227084/?envType=daily-question&envId=2026-07-31",
   "time_complexity": "O(?)",
   "space_complexity": "O(?)"
 }

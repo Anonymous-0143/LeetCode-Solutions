@@ -1,4 +1,4 @@
-# [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2089231580/?envType=daily-question&envId=2026-07-31)
+# [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2089238062/?envType=daily-question&envId=2026-07-31)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-critical)
 ![Language](https://img.shields.io/badge/Language-python3-blue)

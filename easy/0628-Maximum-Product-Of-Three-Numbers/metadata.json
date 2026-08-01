@@ -3,14 +3,14 @@
   "title": "Maximum Product of Three Numbers",
   "difficulty": "Easy",
   "language": "python3",
-  "runtime": "Accepted",
-  "memory": "Accepted\n93 / 93 testcases passed",
+  "runtime": "Accepted\n93 / 93 testcases passed",
+  "memory": "MB",
   "tags": [
     "Array",
     "Math",
     "Sorting"
   ],
-  "submission_date": "2026-07-31T19:24:46.201Z",
+  "submission_date": "2026-08-01T06:39:06.344Z",
   "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2089239268/?envType=daily-question&envId=2026-07-31",
   "time_complexity": "O(?)",
   "space_complexity": "O(?)"

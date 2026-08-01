@@ -2,8 +2,8 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success)
 ![Language](https://img.shields.io/badge/Language-python3-blue)
-![Runtime](https://img.shields.io/badge/Runtime-Accepted-lightgrey)
-![Memory](https://img.shields.io/badge/Memory-Accepted%0A93%20%2F%2093%20testcases%20passed-lightgrey)
+![Runtime](https://img.shields.io/badge/Runtime-Accepted%0A93%20%2F%2093%20testcases%20passed-lightgrey)
+![Memory](https://img.shields.io/badge/Memory-MB-lightgrey)
 
 ## Problem Statement
 <p>Given an integer array <code>nums</code>, <em>find three numbers whose product is maximum and return the maximum product</em>.</p>
@@ -48,4 +48,4 @@ class Solution:
 
 ```
 
-> *Generated on 2026-07-31 by [LeetCode Auto Sync](https://github.com/)*
+> *Generated on 2026-08-01 by [LeetCode Auto Sync](https://github.com/)*

@@ -1,0 +1,16 @@
+{
+  "id": "1480",
+  "title": "Running Sum of 1d Array",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "Accepted",
+  "memory": "Accepted\n54 / 54 testcases passed",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "submission_date": "2026-08-02T20:40:36.848Z",
+  "url": "https://leetcode.com/problems/running-sum-of-1d-array/submissions/2091871185/",
+  "time_complexity": "O(?)",
+  "space_complexity": "O(?)"
+}

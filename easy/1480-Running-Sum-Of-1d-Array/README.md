@@ -2,8 +2,8 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success)
 ![Language](https://img.shields.io/badge/Language-python3-blue)
-![Runtime](https://img.shields.io/badge/Runtime-Accepted-lightgrey)
-![Memory](https://img.shields.io/badge/Memory-Accepted%0A54%20%2F%2054%20testcases%20passed-lightgrey)
+![Runtime](https://img.shields.io/badge/Runtime-Accepted%0A54%20%2F%2054%20testcases%20passed-lightgrey)
+![Memory](https://img.shields.io/badge/Memory-MB-lightgrey)
 
 ## Problem Statement
 <p>Given an array <code>nums</code>. We define a running sum of an array as&nbsp;<code>runningSum[i] = sum(nums[0]&hellip;nums[i])</code>.</p>
@@ -53,15 +53,14 @@ Array, Prefix Sum
 
 ## Solution
 ```python3
-class Solution:
-    def runningSum(self, nums: List[int]) -> List[int]:
-        result = [nums[0]] if nums else []
-      
-        for i in range(1, len(nums)):
-            result.append(result[-1] + nums[i])
-          
-        return result
-
+1class Solution:
+2    def runningSum(self, nums: List[int]) -> List[int]:
+3        result = [nums[0]] if nums else []
+4      
+5        for i in range(1, len(nums)):
+6            result.append(result[-1] + nums[i])
+7          
+8        return result
 ```
 
-> *Generated on 2026-08-02 by [LeetCode Auto Sync](https://github.com/)*
+> *Generated on 2026-08-03 by [LeetCode Auto Sync](https://github.com/)*

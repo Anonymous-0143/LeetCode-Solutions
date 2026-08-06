@@ -1,0 +1,16 @@
+{
+  "id": "3345",
+  "title": "Smallest Divisible Digit Product I",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "Accepted\n1000 / 1000 testcases passed",
+  "memory": "MB",
+  "tags": [
+    "Math",
+    "Enumeration"
+  ],
+  "submission_date": "2026-08-06T16:48:39.078Z",
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2096990924/?envType=daily-question&envId=2026-08-06",
+  "time_complexity": "O(?)",
+  "space_complexity": "O(?)"
+}
